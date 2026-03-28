@@ -256,13 +256,15 @@ The repository maps common HTTP and connectivity failures to user-facing message
 
 - Purpose: create a new account with full name, email, password, and password confirmation
 - API used: `POST api/v1/auth/register`
-- Screenshot: add image here
+- <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5b2aefe6-3861-45ac-8db3-71d7c1c5f7d6" />
+
 
 ### Login
 
 - Purpose: authenticate an existing user and store the returned token locally
 - API used: `POST api/v1/auth/login`
-- Screenshot: add image here
+- Screenshot: <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4b443939-ccb0-4856-9524-a636f9ab7b86" />
+
 
 ### Dashboard
 
@@ -274,19 +276,22 @@ The repository maps common HTTP and connectivity failures to user-facing message
 
 - Purpose: fetch and display the authenticated user's profile information
 - API used: `GET api/v1/profile`
-- Screenshot: add image here
+- Screenshot: <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/d9cb9f0d-fcd5-47b3-b2ce-735ed3ad645d" />
+
 
 ### Update Profile
 
 - Purpose: edit and submit updated profile details
 - API used: `PUT api/v1/profile`
-- Screenshot: add image here
+- Screenshot: <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fa3548e3-f1d6-4a1d-b8b1-1613eea09557" />
+
 
 ### Change Password
 
 - Purpose: update the authenticated user's password
 - API used: `PUT api/v1/profile/password`
-- Screenshot: add image here
+- Screenshot: <img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/62094ebe-ec56-4164-ac1a-20d1221534ef" />
+
 
 ## Suggested Screenshot File Names
 
